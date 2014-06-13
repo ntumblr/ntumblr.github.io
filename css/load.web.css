@@ -53,3 +53,8 @@ img {
 .loadinguser{
 	width: auto;
 }
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
