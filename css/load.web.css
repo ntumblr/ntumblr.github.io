@@ -1,7 +1,7 @@
-@import url(http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
-@import url(http://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery.css);
-@import url(http://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-indicator.css);
-@import url(http://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-video.css);
+@import url(https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-indicator.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/css/blueimp-gallery-video.css);
 
 .paginate{
 	width: 100%;
