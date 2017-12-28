@@ -20,7 +20,7 @@ function loadScripts(array,callback){
 }
 
 loadScripts([
-	"http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js",
+	"//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js",
   "//cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/js/blueimp-gallery.js",
   "//cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/js/blueimp-gallery-fullscreen.js",
   "//cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.15.0/js/blueimp-gallery-indicator.js",
